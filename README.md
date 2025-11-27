@@ -23,6 +23,7 @@ Benutzer können Aufgaben hinzufügen, abhaken und wieder löschen.
 ---
 
 ## 📂 Projektstruktur
+
 ├── index.html
 ├── styles.css
 ├── script.js
