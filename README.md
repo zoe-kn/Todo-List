@@ -22,6 +22,6 @@ The User can add Tasks and delete them.
 - **JavaScript (ES6)**
 
 ---
-## 🖥️ Prview
+## 🖥️ Preview
 
 <img width="729" height="819" alt="image" src="https://github.com/user-attachments/assets/4a8578e9-7414-4de1-a869-802b4ae94941" />
