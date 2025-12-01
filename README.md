@@ -1,16 +1,16 @@
 # 📝 To-Do List
 
-Eine einfache To-Do-Listen-Webanwendung, gebaut mit **HTML**, **CSS** und **JavaScript**.  
-Benutzer können Aufgaben hinzufügen, abhaken und wieder löschen.
+An simple Website, build with **HTML**, **CSS** and **JavaScript**.  
+The User can add Tasks and delete them.
 
 ---
 
 ## 🚀 Features
 
-- ✏️ Neue Aufgaben hinzufügen  
-- ✔️ Aufgaben abhaken (werden durchgestrichen)   
-- ⌨️ Enter-Taste zum Hinzufügen  
-- 🎨 Minimalistisches, zentriertes Layout
+- ✏️ Add new Tasks  
+- ✔️ Task can be checked
+- ❌ Task can be deleted
+- 🎨 minimalistic layout
 
 ---
 
