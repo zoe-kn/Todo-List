@@ -11,6 +11,7 @@ The User can add Tasks and delete them.
 - ✔️ Task can be checked
 - ❌ Task can be deleted
 - 🎨 minimalistic layout
+- 💾 task will be saved even if the browser is closed
 
 ---
 
